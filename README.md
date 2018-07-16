@@ -2,7 +2,7 @@
 basically was a C++ Command Line mode application [Super_Calculator]...now its made with this GUI ..and more features was included. 
 <h1 align="center">
   <br>
-  <img src="Downloads/images(1).png" alt="imaGE" width="200">
+  <img src="Downloads/images(1).png">
   <br>
   Markdownify
   <br>
