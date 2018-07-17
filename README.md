@@ -17,9 +17,9 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
-<p align="center">
+<div align="center">
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38832580/42850492-d21cc3f0-8a1f-11e8-82ce-8dbf19af47d5.gif)
-</p>
+</div>
 ## Key Features
 
 * Calculate different math operations
