@@ -2,7 +2,9 @@
  
  <h1 align="center">
   <br>
+ 
   ![binary-digital](https://user-images.githubusercontent.com/38832580/42850670-9f9745f8-8a20-11e8-95a4-027156cbba11.jpg)      alt="Mega-Number" width="200">
+  
   <br>
   Mega Number V.1.0
   <br>
@@ -16,11 +18,12 @@
   <a href="#download">Download</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
-
+</p>
+<div align="center">
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38832580/42850492-d21cc3f0-8a1f-11e8-82ce-8dbf19af47d5.gif)
 
-</p>
+</div>
 ## Key Features
 
 * Calculate different math operations
