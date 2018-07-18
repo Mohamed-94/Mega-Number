@@ -59,19 +59,19 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## Download
 
-You can [download]() latest zip version of Mega Number.
+You can [download](https://sourceforge.net/projects/mega-number/) latest zip version of Mega Number.
 
  
 ## Related
 
 [SuperCalculator](https://github.com/Mohamed-94/Super-Calculator_Cpp_CommandLine) - C++ CommandLine application
-
+[Hex-Calculator](https://github.com/Mohamed-94/HexCalculator) - A Calculator for Hex-dump
  
 
 ## You may also like...
 
-- [Alpha-Mine](https://github.com/Mohamed-94/Alpha-Mine-ChatBot) - An Artificial Intelligence ChatBot
-- [Hex-Calculator](https://github.com/Mohamed-94/HexCalculator) - A Calculator for Hex-dump
+- [Alpha-Mine](https://github.com/Mohamed-94/Alpha-Mine-ChatBot) - An Artificial Intelligence ChatBot.
+- [Dll for sql connection](https://github.com/Mohamed-94/DLL-for-SQL-Connection) - A Dll library for sql parsing.
 
 ## License
 
