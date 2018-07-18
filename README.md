@@ -65,13 +65,14 @@ You can [download](https://sourceforge.net/projects/mega-number/) latest zip ver
 ## Related
 
 [SuperCalculator](https://github.com/Mohamed-94/Super-Calculator_Cpp_CommandLine) - C++ CommandLine application
+
 [Hex-Calculator](https://github.com/Mohamed-94/HexCalculator) - A Calculator for Hex-dump
  
 
 ## You may also like...
 
 - [Alpha-Mine](https://github.com/Mohamed-94/Alpha-Mine-ChatBot) - An Artificial Intelligence ChatBot.
-- [Dll for sql connection](https://github.com/Mohamed-94/DLL-for-SQL-Connection) - A Dll library for sql parsing.
+- [Dll for SQL Connection](https://github.com/Mohamed-94/DLL-for-SQL-Connection) - A Dll library for sql parsing.
 
 ## License
 
