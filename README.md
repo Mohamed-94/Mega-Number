@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![megarecord](https://user-images.githubusercontent.com/38832580/43366785-fcc452a2-933a-11e8-9a05-23599d927574.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38832580/42850492-d21cc3f0-8a1f-11e8-82ce-8dbf19af47d5.gif)
 
 
 </div>
