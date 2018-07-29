@@ -1,6 +1,6 @@
 # MegaNumber v.1.0 GUI 
  
- <h3 align="center">
+ <h4 align="center">
   <br>
  
   ![binary-digital](https://user-images.githubusercontent.com/38832580/42850670-9f9745f8-8a20-11e8-95a4-027156cbba11.jpg) 
@@ -8,7 +8,7 @@
   <br>
   Mega Number V.1.0
   <br>
-</h3>
+</h4>
 
  
 
