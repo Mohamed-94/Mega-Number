@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38832580/42850492-d21cc3f0-8a1f-11e8-82ce-8dbf19af47d5.gif)
+![screen-recording-7-29-2018-5-49-10-pm-](https://user-images.githubusercontent.com/38832580/43396275-fbd8c166-93f8-11e8-94fa-7cf3c93e7b56.gif)
 
 
 </div>
