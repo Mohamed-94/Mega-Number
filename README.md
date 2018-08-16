@@ -35,8 +35,8 @@
   - 1 - The counter: which you can calculate any operation by increase the counter!
   - 2 - The operator: which you can calculate any operation depends on operator itself ..inserted in the operator field!
 * All operations option Algorithm :
-     - if you choose all operations option then you can calculate all the operations together at one time..just by adding all the operators in the operator field, like : +++++****/////+++^^%%%%%!!!**///++++---**//++++-*//+/
-     - Now the algorithm will calculate all that depends on your input ..starting by addition 5 times and then multiplication 4 times ..and so on ..
+     - if you choose all operations option then you can calculate all the operations together at the same time..just by combining all the operators in the operator field, like : +++++****/////+++^^%%%%%!!!**///++++---**//++++-*//+/
+     - Now the algorithm will calculate all that depends on your input ..starting out by addition 5 times and then multiplication 4 times ..and so on ..
      - You can see all this calculation process by clicking the Details Button.
  * Note that this is only the beganing ..more features will be added soon../-You can also add features you think it may be improvement.!
   - Please feel free to fork/star this repository ..and add your custom edit>>!
