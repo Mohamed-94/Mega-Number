@@ -63,7 +63,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 You can [download](https://sourceforge.net/projects/mega-number/) latest zip version of Mega Number.
 
-Note: This program requires .NET Framework 4.0 or higher ..
+Note: This program requires [.NET Framework 4.0.3](https://www.microsoft.com/en-us/download/details.aspx?id=17851) or higher ..
 
 if you are using linux you will need [MonoDevelop](https://www.monodevelop.com/download/#fndtn-download-lin) instaled on your machine, which is just an open source version of .NET Framework.
 
